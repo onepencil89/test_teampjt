@@ -1,1 +1,1 @@
-print('hello1')
+print('안녕1')
